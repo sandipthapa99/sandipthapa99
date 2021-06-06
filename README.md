@@ -8,7 +8,9 @@
 [<img align="left" alt="@sandipthapa99 | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" />][instagram]<br>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=sandipthapa99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandipthapa99&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=sandipthapa99&theme=default&show_icons=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandipthapa99">
 
 
 
