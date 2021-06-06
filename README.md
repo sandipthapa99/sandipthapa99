@@ -6,6 +6,7 @@
 [<img align="left" alt="sandipthapa.com.np" width="22px" src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/world-128.png" />][website]
 [<img align="left" alt="@sandipthapa99 | Stackoverflow" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-128.png" />][stackoverflow]
 [<img align="left" alt="@sandipthapa99 | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />][linkedin]
+[<img align="left" alt="@sandipthapa99 | Sololearn" width="22px" src="https://raw.githubusercontent.com/sandipthapa99/sandipthapa99/main/sololearn.png" />][sololearn]
 [<img align="left" alt="@sandipthapa99 | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
 [<img align="left" alt="@sandipthapa99 | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" />][instagram]<br>
 
@@ -21,3 +22,4 @@
 [instagram]: https://instagram.com/shizen.99/
 [linkedin]: https://www.linkedin.com/in/sandipthapa99/
 [stackoverflow]: https://stackoverflow.com/users/10811678/sandip99?tab=profile
+[sololearn]: https://www.sololearn.com/profile/13679980
