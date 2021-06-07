@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm sandip Thapa.</h1>
+<h1 align="center">Hi there, I'm Sandip Thapa.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipthapa99&label=Profile%20views&color=0e75b6&style=flat" alt="sandipthapa99" /> </p>
 
 ### Connect with me:
