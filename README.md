@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sandip Thapa.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipthapa99&label=Profile%20views&color=0e75b6&style=flat" alt="sandipthapa99" /> </p>
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="@sandipthapa99 | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />][linkedin]
 [<img align="left" alt="@sandipthapa99 | Stackoverflow" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-128.png" />][stackoverflow]
